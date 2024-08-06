@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box1{
+  width: 100%;
+  height: 200px;
+  background-image: url(img/img6/box1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box2{
+  width: 100%;
+  height: 200px;
+  background-image: url(img/img6/box2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box3{
+  width: 100%;
+  height: 200px;
+  background-image: url(img/img6/box3.jpg); /*背景画像を挿入する*/
+  background-size: cover; /*背景画像のサイズを入力する。要素を覆いたいためcoverを入力*/
+  background-position: center; /*背景画像のどこを基準にしたいかを入力する*/
+}
+
+.box4{
+  width: 100%;
+  height: 200px;
+  background-image: url(img/img6/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
